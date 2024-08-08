@@ -1,0 +1,96 @@
+a. Pandas
+
+  #Purpose:
+
+-> Pandas is a powerful library for data manipulation and analysis in Python.
+-> It provides data structures such as Data Frames and Series to efficiently manipulate and analyse structured data.
+
+  #Features:
+ 
+-> Easy handling of missing data.
+-> Data entry and integration of data sources.
+-> Tools for reading and writing data between in-memory data structures and formats. 
+-> Example = CSV, Excel, SQL databases etc.
+
+===================================================================================================================================
+
+b. NumPy
+
+  #Purpose:
+
+-> NumPy is the foundation for statistical computing in Python, providing support for large multidimensional arrays and matrices,
+   as well as running compiled statistical operations on these arrays.
+       
+  #Features:
+ 
+-> Efficient array computation.
+-> Broadcasting functions for processing arrays.
+-> Application of linear algebra, Fourier transform and random number generation.
+
+===================================================================================================================================
+
+c. TensorFlow
+
+  #Purpose: 
+
+-> TensorFlow is an open source machine learning platform developed by Google.
+-> Machine learning and deep learning models are used and trained, especially neural networks.
+
+  #Features: 
+
+-> Assist in building and deploying machine learning models across platforms.
+-> High-level API's (such as Keras) provide flexible model building.
+-> TensorFlow Extended (TFX) for performance ML pipelines.
+-> Example = servers, mobile devices estc.
+
+===================================================================================================================================
+
+d. Keras
+
+  #Purpose:
+
+-> Keras is a high-level neural networks API, written in Python, that goes on top of TensorFlow. 
+-> It simplifies the process of building and training deep learning models.
+
+  #Features:
+
+-> It is user-friendly and modular, with an easy-to-understand syntax.
+-> Support convolutional networks, recurrent networks and combinations of both.
+-> It allows for rapid testing and prototyping.
+
+===================================================================================================================================
+
+e. Sklearn 
+
+  #Purpose: 
+
+-> Scikit-learn(sklearn) is a widely used library for machine learning in python, making it simple and efficient.
+
+#Features:
+
+-> Implements a wide range of algorithms for classification, regression, clustering, and dimensionality reduction.
+-> Tools for model selection, evaluation, and pre-processing.
+-> Compatible with NumPy and Pandas for seamless data manipulation.
+
+===================================================================================================================================
+
+f. PyTorch
+
+  #Purpose:
+
+-> PyTorch is an open-source deep learning framework developed by Facebook's AI Research lab.
+-> It is known for its flexibility, dynamic computational graph and ease of use, particularly in research settings.
+
+  #Features:
+
+-> Dynamic computation graph for intuitive model building and debugging.
+-> Strong GPU acceleration.
+-> Extensive support for neural network layers, loss functions, and optimization routines.
+-> Growing community and rich ecosystem with libraries like Torch Vision for computer vision.
+
+===================================================================================================================================
+
+
+
+
+
